@@ -35,7 +35,7 @@ const NavBar = () => {
                   isActive ? activeLink : normalLink
                 }
               >
-                Project
+                Projects
               </NavLink>
             </li>
             <li className="nav-list__item">
