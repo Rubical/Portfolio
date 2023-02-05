@@ -12,12 +12,13 @@ const Project = () => {
       <div class="container">
         <div class="project-details">
           <h1 class="title-1">{project.title}</h1>
-
-          <img
-            src={project.imgBig}
-            alt={project.title}
-            class="project-details__cover"
-          />
+          <a href={project.link}>
+            <img
+              src={project.imgBig}
+              alt={project.title}
+              class="project-details__cover"
+            />
+          </a>
 
           <div class="project-details__desc">
             <p>{project.skills}</p>

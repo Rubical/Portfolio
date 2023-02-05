@@ -11,6 +11,7 @@ const projects = [
     img: project01,
     imgBig: project01Big,
     gitHubLink: "https://github.com/Rubical/Coffeeshop",
+    link: "https://rubical.github.io/Coffeeshop/",
   },
   {
     title: "Sushi shop",
@@ -18,6 +19,7 @@ const projects = [
     imgBig: project02Big,
     skills: "React",
     gitHubLink: "https://github.com/Rubical/react-shop",
+    link: "https://rubical.github.io/react-shop/",
   },
 ];
 
