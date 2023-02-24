@@ -1,4 +1,5 @@
 import { NavLink } from "react-router-dom";
+import BtnGitHub from "../btnGithub/BtnGitHub";
 import "./style.css";
 
 const Project = ({ title, img, index }) => {
