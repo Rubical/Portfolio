@@ -8,7 +8,7 @@ import project03Big from "./../../img/projects/03-big.jpg";
 const projects = [
   {
     title: "Api website",
-    skills: "ReactJS, MaterialUI, Supabase",
+    skills: "ReactJS, Redux, MaterialUI, Supabase",
     img: project01,
     imgBig: project01Big,
     gitHubLink: "https://github.com/Rubical/github-API",
@@ -18,13 +18,13 @@ const projects = [
     title: "Sushi cart",
     img: project02,
     imgBig: project02Big,
-    skills: "ReactJS",
+    skills: "React Js",
     gitHubLink: "https://github.com/Rubical/react-shop",
     link: "https://rubical.github.io/react-shop/",
   },
   {
     title: "Coffeeshop",
-    skills: "VanillaJs, Bootstrap, SCSS",
+    skills: "Vanilla Js, Bootstrap, SCSS",
     img: project03,
     imgBig: project03Big,
     gitHubLink: "https://github.com/Rubical/Coffeeshop",
