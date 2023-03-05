@@ -12,7 +12,7 @@ const Project = () => {
       <div class="container">
         <div class="project-details">
           <h1 class="title-1">{project.title}</h1>
-          <a href={project.link}>
+          <a target="_blank" href={project.link}>
             <img
               src={project.imgBig}
               alt={project.title}

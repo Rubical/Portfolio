@@ -10,7 +10,8 @@ const Home = () => {
             <li className="content-list__item">
               <h2 className="title-2">Frontend</h2>
               <p>
-                JavaScript, ReactJS, HTML, CSS, NPM, BootStrap, StyledComponents
+                JavaScript, ReactJS, HTML, CSS, NPM, BootStrap, MaterialUI,
+                Supabase, RestAPI
               </p>
             </li>
           </ul>
